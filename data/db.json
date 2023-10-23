@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pet Bed",
+      "tag": "bed",
+      "price": 29,
+      "description": "A comfortable and cozy bed for your furry friend."
+    },
+    {
+      "id": "2",
+      "name": "Cat Toy Set",
+      "tag": "toy",
+      "price": 14,
+      "description": "A set of interactive toys to keep your cat entertained."
+    },
+    {
+      "id": "3",
+      "name": "Dog Leash",
+      "tag": "leash",
+      "price": 9,
+      "description": "A durable leash for walking your dog with ease."
+    },
+    {
+      "id": "4",
+      "name": "Pet Carrier",
+      "tag": "carrier",
+      "price": 39,
+      "description": "A convenient and secure carrier for transporting your pet."
+    },
+    {
+      "id": "5",
+      "name": "Cat Scratching Post",
+      "tag": "scratcher",
+      "price": 19,
+      "description": "A sturdy scratching post to keep your cat's claws healthy."
+    },
+    {
+      "id": "6",
+      "name": "Dog Treats",
+      "tag": "treat",
+      "price": 5,
+      "description": "Delicious and nutritious treats for rewarding your dog."
+    },
+    {
+      "id": "7",
+      "name": "Pet Grooming Kit",
+      "tag": "grooming",
+      "price": 24,
+      "description": "A complete kit for keeping your pet clean and well-groomed."
+    },
+    {
+      "id": "8",
+      "name": "Fish Tank",
+      "tag": "tank",
+      "price": 49,
+      "description": "A beautiful fish tank to create an aquatic paradise."
+    },
+    {
+      "id": "9",
+      "name": "Bird Cage",
+      "tag": "cage",
+      "price": 34,
+      "description": "A spacious and comfortable cage for your feathered friend."
+    },
+    {
+      "id": "10",
+      "name": "Small Animal Hay",
+      "tag": "hay",
+      "price": 7,
+      "description": "High-quality hay for small animals to support their digestion."
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "firstName": "ibrahim",
+      "lastName": "hiarea",
+      "phone": "1234",
+      "country": "Syria",
+      "city": "damascus",
+      "address": "damascus",
+      "password": "1234",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1,
+          "totalPrice": 14,
+          "cart": [
+            {
+              "id": 1,
+              "name": "Small Animal Hay",
+              "amount": 2,
+              "price": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

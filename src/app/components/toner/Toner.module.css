@@ -1,0 +1,23 @@
+.toner{
+    display: flex;
+    gap: 25px;
+    border: 2px solid #190482;
+    padding: 10px;
+}
+
+.minus,
+.add{
+    border-radius: 50%;
+    border: 2px solid #190482;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
